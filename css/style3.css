@@ -1,0 +1,19 @@
+.logo {
+    width: 200px; /* Adjust width as needed */
+    height: 100px; /* Adjust height as needed */
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 60px; /* Adjust width of the image */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Add spacing between image and text */
+  
+  }
+  
+  .logo-text {
+    font-size: 24px;
+    color: #000; /* Change text color as needed */
+  }
+  

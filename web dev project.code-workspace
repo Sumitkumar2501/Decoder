@@ -1,0 +1,88 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../4.0 File Paths"
+		},
+		{
+			"path": "../../4.1 Webpages"
+		},
+		{
+			"path": "../../5.1. Adding CSS"
+		},
+		{
+			"path": "../../5.3 CSS Selectors"
+		},
+		{
+			"path": "../../5.4 Color Vocab Project"
+		},
+		{
+			"path": "../../6.0 CSS Colors"
+		},
+		{
+			"path": "../../6.1 Font Properties"
+		},
+		{
+			"path": "../../6.3 CSS Box Model"
+		},
+		{
+			"path": "../../6.4 Motivation Meme Project"
+		},
+		{
+			"path": "../../7.0 CSS Cascade"
+		},
+		{
+			"path": "../../combinig css selector"
+		},
+		{
+			"path": "../../python project"
+		},
+		{
+			"path": "../../css positioning"
+		},
+		{
+			"path": "../../flag project"
+		},
+		{
+			"path": "../../8.0 css display"
+		},
+		{
+			"path": "../../8.1 css float"
+		},
+		{
+			"path": "../../4.0 File Paths/class"
+		},
+		{
+			"path": "../../class project"
+		},
+		{
+			"path": "../../8.2 responsiveness"
+		},
+		{
+			"path": "../../8.3 media query"
+		},
+		{
+			"path": "../../8.4 web design agency project"
+		},
+		{
+			"path": "../../display flex"
+		},
+		{
+			"path": "../../flex direction"
+		},
+		{
+			"path": "../../java"
+		},
+		{
+			"path": "../../display grid"
+		},
+		{
+			"path": "../../grid placement"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
